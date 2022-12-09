@@ -1,1 +1,5 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.btn-generate {
+  margin-bottom: 20px;
+}

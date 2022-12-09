@@ -21,7 +21,7 @@ function generateDomain() {
         for (let l in domain) {
           let div = document.createElement("div");
           div.innerHTML = `${pronoun[i]}${adj[j]}${noun[k]}${domain[l]}`;
-          document.body.appendChild(div);
+          document.body.appendChild(div).classList.add("text-center");
         }
       }
     }
