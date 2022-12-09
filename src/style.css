@@ -1,5 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 
 .btn-generate {
-  margin-bottom: 20px;
+  margin: 20px 0px;
+}
+
+body {
+  background-color: white;
 }
